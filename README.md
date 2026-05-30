@@ -17,13 +17,13 @@ class SamAbishekraj:
     def __init__(self):
         self.name = "Sam Abishekraj D"
         self.location = "Madurai, Tamil Nadu, India"
-        self.education = "M.Sc Computer Science • B.Sc Data Science (CGPA: 8.7)"
+        self.education = "M.Sc CS • B.Sc Data Science (CGPA 8.7)"
         self.role = "AI/ML Practitioner & Trainer"
         self.stack = [
             "Python", "MySQL", "Pandas", "NumPy",
             "Scikit-learn", "LightGBM", "Keras", "FAISS",
-            "FastAPI", "Flask", "Streamlit", "Gradio", "Hugging Face",
-            "Git", "Linux (Pop!_OS)"
+            "FastAPI", "Flask", "Streamlit", "Gradio",
+            "Hugging Face", "Git", "Linux (Pop!_OS)"
         ]
         self.currently_learning = [
             "Advanced Agentic Workflows",
