@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Abishekraj%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agent%20Workflows&descAlignY=62&descSize=16)
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+LLM+%26+RAG+Systems+%F0%9F%94%8D;Prompt+Engineer+%26+Agent+Builder+%F0%9F%A7%A0;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sam-Abishekraj&label=Profile+Views&color=70a5fd&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Sam-Abishekraj?label=Followers&style=flat-square&color=bf91f3)
 
 </div>
 
