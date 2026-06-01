@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Abishekraj%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agent%20Workflows&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Abishekraj%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agent%20Workflows&descAlignY=62&descSize=16" alt="header" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+LLM+%26+RAG+Systems+%F0%9F%94%8D;Prompt+Engineer+%26+Agent+Builder+%F0%9F%A7%A0;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+LLM+%26+RAG+Systems+%F0%9F%94%8D;Prompt+Engineer+%26+Agent+Builder+%F0%9F%A7%A0;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sam-Abishekraj&label=Profile+Views&color=70a5fd&style=flat-square" />
@@ -10,12 +10,12 @@
 </p>
 
 🧑‍💻 About Me
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 pythonclass SamAbishekraj:
-    name        = "Sam Abishekraj D"
-    location    = "Madurai, Tamil Nadu, India"
-    degree      = "M.Sc Computer Science (MKU) + B.Sc Data Science (8.7 CGPA)"
-    role        = "AI/ML Engineer | Data Science Trainer"
+    name     = "Sam Abishekraj D"
+    location = "Madurai, Tamil Nadu, India"
+    degree   = "M.Sc CS (MKU) + B.Sc Data Science (8.7 CGPA)"
+    role     = "AI/ML Engineer | Data Science Trainer"
 
     stack = [
         "Python", "FastAPI", "Flask", "Streamlit",
@@ -35,6 +35,7 @@ pythonclass SamAbishekraj:
     def motto(self):
         return "Build systems that think. Teach people who build."
 <br clear="right"/>
+
 
 🛠️ Tech Stack
 Languages & Data
