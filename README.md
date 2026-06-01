@@ -1,49 +1,151 @@
-<a href="https://github.com/Sam-Abishekraj">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Abishekraj%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Practitioner%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agent%20Workflows&descAlignY=62&descSize=16" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam%20Abishekraj%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agent%20Workflows&descAlignY=62&descSize=16" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+LLM+%26+RAG+Systems+%F0%9F%94%8D;Prompt+Engineer+%26+Agent+Builder+%F0%9F%A7%A0;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sam-Abishekraj&label=Profile+Views&color=70a5fd&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Sam-Abishekraj?label=Followers&style=flat-square&color=bf91f3" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sam-Abishekraj&style=flat-square&color=70a5fd&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Sam-Abishekraj?style=flat-square&color=bf91f3&label=Followers" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Practitioner+%F0%9F%A4%96;Building+LLM+Apps+%26+RAG+Systems+%F0%9F%94%8D;Prompt+Engineering+%7C+Vector+Search+%7C+FastAPI;Turning+Data+into+Decisions+%F0%9F%9A%80" />
-</div>
-
----
-
-## 🧑‍💻 About Me
-
+🧑‍💻 About Me
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+pythonclass SamAbishekraj:
+    name        = "Sam Abishekraj D"
+    location    = "Madurai, Tamil Nadu, India"
+    degree      = "M.Sc Computer Science (MKU) + B.Sc Data Science (8.7 CGPA)"
+    role        = "AI/ML Engineer | Data Science Trainer"
 
-```python
-class SamAbishekraj:
-    def __init__(self):
-        self.name        = "Sam Abishekraj D"
-        self.location    = "India 🇮🇳"
-        self.degree      = "M.Sc Computer Science (Madurai Kamaraj University)"
-        self.stack       = [
-            "Python", "FastAPI", "Flask", "Streamlit",
-            "LangChain", "FAISS", "Scikit-learn", "LightGBM",
-            "Keras", "Hugging Face", "MySQL", "Pandas", "NumPy"
-        ]
-        self.currently_learning = [
-            "Advanced RAG Pipelines",
-            "LLM Agent Architectures",
-            "Vector Database Optimization",
-            "Production AI Deployment"
-        ]
-        self.fun_fact    = "I debug models the same way I debug life — one layer at a time 🧠"
+    stack = [
+        "Python", "FastAPI", "Flask", "Streamlit",
+        "LangChain", "FAISS", "Hugging Face",
+        "Scikit-learn", "LightGBM", "Keras",
+        "MySQL", "Pandas", "NumPy"
+    ]
+
+    currently_learning = [
+        "Advanced RAG Pipelines",
+        "Multi-Agent Systems",
+        "LLM Fine-tuning"
+    ]
+
+    fun_fact = "I run on curiosity, chai, and clean code ☕"
 
     def motto(self):
-        return "Build AI systems that don't just predict — they decide. 🚀"
+        return "Build systems that think. Teach people who build."
+<br clear="right"/>
 
-me = SamAbishekraj()
-print(me.motto())
-```
+🛠️ Tech Stack
+Languages & Data
+Show Image
+Show Image
+Show Image
+Show Image
+Machine Learning
+Show Image
+Show Image
+Show Image
+Show Image
+LLMs & Agent Systems
+Show Image
+Show Image
+Show Image
+Show Image
+Frameworks & Deployment
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Systems
+Show Image
+Show Image
+Show Image
+Show Image
+
+📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/Sam-Abishekraj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-Abishekraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/Sam-Abishekraj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Abishekraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+🔥 Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sam-Abishekraj&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+</div>
+
+📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-Abishekraj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+</div>
+
+🏆 Trophy Wall
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sam-Abishekraj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+💼 Work Experience
+<details>
+<summary><b>🟣 Knowledge Hive Learning Services — Data Science & ML Trainer | Sep 2025 – Present | Remote</b></summary>
+<br/>
+
+Show Image Show Image Show Image Show Image
+
+
+Designed and delivered a structured Data Science & ML curriculum covering Python, SQL, machine learning workflows, and deployment concepts for a cohort of students
+Mentored learners in building modular ML systems and real-world AI applications from scratch to production
+Guided students on applied machine learning, workflow automation, and practical deployment practices
+Transitioned from Full-Time (Sep–Dec 2025) to Part-Time (Jan 2026–Present) while continuing active mentorship
+
+</details>
+<details>
+<summary><b>🔵 Kodacy — AI / ML Intern | Jul 2025 | Remote</b></summary>
+<br/>
+
+Show Image Show Image Show Image Show Image
+
+
+Built end-to-end machine learning pipelines using Scikit-learn covering data ingestion to model output
+Performed data preprocessing, feature engineering, and model evaluation across multiple datasets
+Developed Streamlit-based interactive interfaces for model interaction and result visualization
+
+</details>
+
+🚀 Featured Projects
+<div align="center">
+ProjectStackHighlights🎓 TechVerse University RAG AssistantPython · FAISS · Gemini API · FastAPI · Railway · VercelRAG pipeline with FAISS vector search & embedding retrieval; conversational memory via FastAPI; deployed on Railway + Vercel🔍 FraudSense – Fraud DetectionPython · TF-IDF · SVD · LightGBM · Neural NetworksNLP-based fraud detection on job postings & review datasets; TF-IDF + SVD feature extraction; LightGBM + NN ensemble❤️ Heart Disease ClassifierPython · Flask · Scikit-learn · Feature EngineeringEnd-to-end ML app from preprocessing to deployment; Flask UI for user input & prediction; improved reliability via feature engineering
+</div>
+
+🏅 Achievements & Certifications
+<div align="center">
+🏆AchievementDetails📜MTA Exam 98-381Introduction to Programming Using Python — Microsoft🤖IBM AI Developer CertificateFull AI developer learning path — IBM🧠IBM Generative AI & Prompt EngineeringGenerative AI concepts & structured prompt design — IBM📊Statistics with PythonInferential & applied stats — University of Michigan☁️AWS Educate: Intro to Generative AIGenerative AI on cloud foundations — Amazon Web Services🎓B.Sc Data ScienceCGPA: 8.7 — The American College
+</div>
+
+🎓 Education
+<div align="center">
+DegreeInstitutionYearScoreM.Sc Computer Science (Correspondence)Madurai Kamaraj University2025 – PresentOngoingB.Sc Data ScienceThe American CollegeCompleted8.7 CGPA
+</div>
+
+🌱 Currently Learning
+🔍 Advanced RAG        →  Multi-vector retrieval · Hybrid search · Re-ranking
+🤖 Multi-Agent Systems →  Agent orchestration · Tool-use · Memory management
+🧬 LLM Fine-tuning     →  LoRA · PEFT · Instruction tuning
+⚙️  MLOps Basics        →  Model versioning · CI/CD for ML · Monitoring
+🧱 System Design       →  Scalable AI backends · Async pipelines · API design
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</p>
+<p align="center">
+  <i>"Build systems that think. Teach people who build."</i><br/>
+  <b>— Sam Abishekraj D</b>
+</p>
 
 <br clear="right"/>
 
