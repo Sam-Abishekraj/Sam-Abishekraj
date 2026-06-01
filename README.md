@@ -80,19 +80,6 @@ class SamAbishekraj:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sam-Abishekraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sam's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Abishekraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -114,15 +101,6 @@ class SamAbishekraj:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sam-Abishekraj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
