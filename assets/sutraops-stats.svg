@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-labelledby="t d">
+  <title id="t">SutraOps real eval results</title>
+  <desc id="d">25-scenario eval in English, Tamil and Hindi on the Groq free tier: 88% task success (22 of 25), 92% right-tool accuracy, 100% valid tool calls (33 of 33), 1.1 s median latency, 56 pytest tests.</desc>
+  <defs>
+    <style>
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+      .num{fill:#f4f6fb;font-size:52px;font-weight:600;letter-spacing:-1.5px}
+      .acc{fill:#a3dcec}
+      .k{fill:#bab9c1;font-size:16px}
+      .s{fill:#7d98a0;font-size:13px}
+      .sep{stroke:#a3dcec;stroke-opacity:.14}
+    </style>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#3f3fbf"/><stop offset="1" stop-color="#a3dcec"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1279" height="199" rx="16" fill="#04040c" stroke="#a3dcec" stroke-opacity=".14"/>
+  <rect x="0" y="0" width="1280" height="3" rx="1.5" fill="url(#bar)"/>
+  <text x="40" y="42" class="mono" font-size="13" letter-spacing="2.5" fill="#a3dcec">REAL EVAL  ·  25 SCENARIOS  ·  ENGLISH / TAMIL / HINDI  ·  GROQ FREE TIER</text>
+
+  <g transform="translate(40 0)">
+    <text class="sans num" x="0" y="118">88<tspan class="acc">%</tspan></text>
+    <text class="sans k" x="0" y="148">Task success</text>
+    <text class="mono s" x="0" y="172">22 / 25 end-to-end</text>
+  </g>
+  <line class="sep" x1="276" y1="74" x2="276" y2="176"/>
+  <g transform="translate(296 0)">
+    <text class="sans num" x="0" y="118">92<tspan class="acc">%</tspan></text>
+    <text class="sans k" x="0" y="148">Right-tool accuracy</text>
+    <text class="mono s" x="0" y="172">picked the right tools</text>
+  </g>
+  <line class="sep" x1="532" y1="74" x2="532" y2="176"/>
+  <g transform="translate(552 0)">
+    <text class="sans num" x="0" y="118">100<tspan class="acc">%</tspan></text>
+    <text class="sans k" x="0" y="148">Valid tool calls</text>
+    <text class="mono s" x="0" y="172">33 / 33</text>
+  </g>
+  <line class="sep" x1="788" y1="74" x2="788" y2="176"/>
+  <g transform="translate(808 0)">
+    <text class="sans num" x="0" y="118">1.1<tspan class="acc">s</tspan></text>
+    <text class="sans k" x="0" y="148">Median latency</text>
+    <text class="mono s" x="0" y="172">gpt-oss-120b → 20b fallback</text>
+  </g>
+  <line class="sep" x1="1044" y1="74" x2="1044" y2="176"/>
+  <g transform="translate(1064 0)">
+    <text class="sans num" x="0" y="118">56</text>
+    <text class="sans k" x="0" y="148">Automated tests</text>
+    <text class="mono s" x="0" y="172">pytest, all passing</text>
+  </g>
+</svg>

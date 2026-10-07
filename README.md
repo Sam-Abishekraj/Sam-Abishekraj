@@ -1,235 +1,182 @@
+<!-- Design direction: adapted from the Scale (scale.com) reference in Inspo (inspomcp.dev/screens/scale-com):
+     near-black #04040c surface, pale-cyan #a3dcec accent, indigo #3f3fbf support, marquee-style headline, stat-led proof. -->
+
+<a href="https://resume-ruddy-omega.vercel.app/"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/main/assets/header.svg" width="100%" alt="Sam Abishekraj D, AI Engineer and Forward Deployed Engineer. I wire LLM agents into real business systems, and make them safe, observable and cheap to run."/></a>
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Agent+Builder+%F0%9F%A4%96;Wiring+LLM+Agents+into+Real+Systems+%F0%9F%94%8C;RAG+%C2%B7+Tool+Calling+%C2%B7+MCP+%C2%B7+Guardrails+%F0%9F%9B%A1%EF%B8%8F;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=A3DCEC&center=true&vCenter=true&width=760&height=40&lines=Tool+calling+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Guardrails+%C2%B7+Evals;CRMs%2C+SQL%2C+docs+and+notifications%2C+wired+to+one+agent;Open+to+AI+Engineer+%26+Forward+Deployed+Engineer+roles"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=3F3FBF&center=true&vCenter=true&width=760&height=40&lines=Tool+calling+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Guardrails+%C2%B7+Evals;CRMs%2C+SQL%2C+docs+and+notifications%2C+wired+to+one+agent;Open+to+AI+Engineer+%26+Forward+Deployed+Engineer+roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=A3DCEC&center=true&vCenter=true&width=760&height=40&lines=Tool+calling+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Guardrails+%C2%B7+Evals;CRMs%2C+SQL%2C+docs+and+notifications%2C+wired+to+one+agent;Open+to+AI+Engineer+%26+Forward+Deployed+Engineer+roles" alt="Tool calling, RAG, MCP, guardrails, evals"/>
+</picture>
 
-<p>
-<a href="https://resume-ruddy-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:samabishek7@gmail.com"><img src="https://img.shields.io/badge/Email-BF91F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://img.shields.io/badge/Flagship-SutraOps-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="SutraOps"/></a>
-</p>
-
-**Entry-level AI Engineer / Forward Deployed Engineer** · I connect LLM agents to messy business systems (CRMs, SQL, docs, notifications) and make them safe, observable and cheap to run.
+<a href="https://resume-ruddy-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-04040c?style=for-the-badge&logo=vercel&logoColor=a3dcec" alt="Portfolio"/></a> <a href="mailto:samabishek7@gmail.com"><img src="https://img.shields.io/badge/samabishek7@gmail.com-04040c?style=for-the-badge&logo=gmail&logoColor=a3dcec" alt="Email"/></a> <a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://img.shields.io/badge/Flagship-SutraOps-3f3fbf?style=for-the-badge&logo=github&logoColor=a3dcec&labelColor=04040c" alt="SutraOps"/></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ◆ Flagship · [SutraOps](https://github.com/Sam-Abishekraj/sutraops)
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+**An enterprise integration agent, built the way a forward deployed engineer ships one.** SutraOps plugs an LLM agent into **5 systems** of a fictional Indian D2C brand (a REST CRM/ticketing API, a guarded read-only SQL tool, multilingual RAG over SOPs, Slack/email notifications and an **MCP server**) and keeps it safe enough to touch money.
 
-```python
-class SamAbishekraj:
-    name     = "Sam Abishekraj D"
-    location = "Madurai, Tamil Nadu, India"
-    degree   = "M.Sc CS (MKU) + B.Sc Data Science (8.7 CGPA)"
-    role     = "AI Engineer (Agents & RAG) | Data Science Trainer"
-    seeking  = "AI Engineer / Forward Deployed Engineer roles"
+<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/main/assets/sutraops-stats.svg" width="100%" alt="Real eval: 88% task success (22/25), 92% right-tool accuracy, 100% valid tool calls (33/33), 1.1s median latency, 56 pytest tests"/></a>
 
-    stack = [
-        "Python", "FastAPI", "Flask", "REST APIs", "SQLite",
-        "LLM tool calling", "MCP", "Groq", "LangChain",
-        "FAISS", "Hugging Face", "pytest",
-        "Scikit-learn", "LightGBM", "Keras",
-        "MySQL", "Pandas", "NumPy"
-    ]
+<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/sutraops/main/docs/screenshots/02-console-injection-approval.png" width="100%" alt="SutraOps console: the agent blocks a prompt injection and sends a large refund for human approval"/></a>
 
-    currently_learning = [
-        "Agent evals & guardrails",
-        "Multi-Agent Systems",
-        "LLM Fine-tuning (LoRA)"
-    ]
+<table>
+<tr>
+<td width="33%" valign="top">
 
-    fun_fact = "I run on curiosity, chai, and clean code ☕"
+**🛡️ Guardrails**<br/>
+Prompt-injection redaction, PII masking, SQL table whitelist, human approval for refunds above ₹2,000, and detection of claimed-but-not-done actions.
 
-    def motto(self):
-        return "Build systems that think. Teach people who build."
-```
+</td>
+<td width="33%" valign="top">
 
-<br clear="right"/>
+**⚡ Free-tier resilient**<br/>
+Groq `gpt-oss-120b` with automatic `gpt-oss-20b` fallback on rate limits, response caching, backoff and a demo replay mode.
 
----
+</td>
+<td width="33%" valign="top">
 
-## 🛠️ Tech Stack
+**📊 Observable**<br/>
+Live tool-call traces and an admin dashboard for approvals, token use and the outbox. 56 pytest tests.
 
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**LLMs & Agent Systems**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
-
-**Frameworks & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Tools & Systems**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-
-## 🔥 Streak Stats
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sam-Abishekraj&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/sutraops/main/docs/screenshots/03-dashboard-approvals.png" width="49%" alt="SutraOps admin dashboard: pending approvals"/></a> <a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/sutraops/main/docs/screenshots/06-console-hindi.png" width="49%" alt="SutraOps console answering in Hindi"/></a>
+
+![Python](https://img.shields.io/badge/Python-1c2a4d?style=flat-square&logo=python&logoColor=a3dcec) ![Flask](https://img.shields.io/badge/Flask-1c2a4d?style=flat-square&logo=flask&logoColor=a3dcec) ![Groq](https://img.shields.io/badge/Groq-1c2a4d?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-1c2a4d?style=flat-square&logo=modelcontextprotocol&logoColor=a3dcec) ![FAISS](https://img.shields.io/badge/FAISS-1c2a4d?style=flat-square&logo=meta&logoColor=a3dcec) ![SQLite](https://img.shields.io/badge/SQLite-1c2a4d?style=flat-square&logo=sqlite&logoColor=a3dcec) ![Docker](https://img.shields.io/badge/Docker-1c2a4d?style=flat-square&logo=docker&logoColor=a3dcec)
+
+**[→ Explore the repo, eval report and architecture](https://github.com/Sam-Abishekraj/sutraops)**
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## ◆ What I build
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam-Abishekraj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+**🔌 Agents wired into real systems**<br/>
+Hand-written tool-calling loops over REST APIs, SQL, documents and notification channels, exposed through MCP.
 
-</div>
+</td>
+<td width="33%" valign="top">
+
+**🧪 Safe and measurable AI**<br/>
+Guardrails, human-in-the-loop approvals, tracing and evals that report honest numbers, misses included.
+
+</td>
+<td width="33%" valign="top">
+
+**📚 RAG and ML that ships**<br/>
+FAISS retrieval behind FastAPI, deployed on Railway + Vercel, plus classic ML pipelines with LightGBM and neural networks.
+
+</td>
+</tr>
+</table>
+
+## ◆ More projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [TechVerse University RAG Assistant](https://github.com/Sam-Abishekraj/trueailab-rag-assistant)
+RAG pipeline with FAISS vector search and embedding retrieval, conversational memory via a FastAPI backend, deployed on Railway + Vercel.
+
+`Python` `FAISS` `Gemini API` `FastAPI` `Vercel`
+
+**[Live demo ↗](https://trueailab-rag-assistant-nine.vercel.app)** · **[Code ↗](https://github.com/Sam-Abishekraj/trueailab-rag-assistant)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [FraudSense: Fraud Detection](https://github.com/Sam-Abishekraj/Fraud_Sense)
+NLP-based fraud detection on job postings and reviews. TF-IDF + SVD feature extraction with a LightGBM + neural network ensemble.
+
+`Python` `TF-IDF` `SVD` `LightGBM` `Neural Networks`
+
+**[Code ↗](https://github.com/Sam-Abishekraj/Fraud_Sense)**
+
+</td>
+</tr>
+</table>
 
 ---
 
+## ◆ Experience
 
-## 💼 Work Experience
-
-<details>
-<summary><b>🟣 Knowledge Hive Learning Services — Data Science & ML Trainer &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
+**Data Science & ML Trainer** · Knowledge Hive Learning Services · *Sep 2025 – Present*
 - Designed and delivered a structured Data Science & ML curriculum covering Python, SQL, machine learning workflows, and deployment concepts
 - Mentored learners in building modular ML systems and real-world AI applications from scratch to production
 - Guided students on applied machine learning, workflow automation, and practical deployment practices
 - Full-Time (Sep–Dec 2025) → Part-Time (Jan 2026–Present) while continuing active mentorship
 
-</details>
-
-<details>
-<summary><b>🔵 Kodacy — AI / ML Intern &nbsp;|&nbsp; Jul 2025</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+**AI / ML Intern** · Kodacy · *Jul 2025*
 - Built end-to-end machine learning pipelines using Scikit-learn covering data ingestion to model output
 - Performed data preprocessing, feature engineering, and model evaluation across multiple datasets
 - Developed Streamlit-based interactive interfaces for model interaction and result visualization
 
-</details>
+## ◆ Tech stack
 
----
+| Area | Stack |
+|:--|:--|
+| **LLMs & agents** | ![Groq](https://img.shields.io/badge/Groq-1c2a4d?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-1c2a4d?style=flat-square&logo=modelcontextprotocol&logoColor=a3dcec) ![LangChain](https://img.shields.io/badge/LangChain-1c2a4d?style=flat-square&logo=langchain&logoColor=a3dcec) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1c2a4d?style=flat-square&logo=huggingface&logoColor=a3dcec) ![Gemini API](https://img.shields.io/badge/Gemini%20API-1c2a4d?style=flat-square&logo=googlegemini&logoColor=a3dcec) ![FAISS](https://img.shields.io/badge/FAISS-1c2a4d?style=flat-square&logo=meta&logoColor=a3dcec) |
+| **Backend & deploy** | ![FastAPI](https://img.shields.io/badge/FastAPI-1c2a4d?style=flat-square&logo=fastapi&logoColor=a3dcec) ![Flask](https://img.shields.io/badge/Flask-1c2a4d?style=flat-square&logo=flask&logoColor=a3dcec) ![Docker](https://img.shields.io/badge/Docker-1c2a4d?style=flat-square&logo=docker&logoColor=a3dcec) ![Railway](https://img.shields.io/badge/Railway-1c2a4d?style=flat-square&logo=railway&logoColor=a3dcec) ![Vercel](https://img.shields.io/badge/Vercel-1c2a4d?style=flat-square&logo=vercel&logoColor=a3dcec) ![Streamlit](https://img.shields.io/badge/Streamlit-1c2a4d?style=flat-square&logo=streamlit&logoColor=a3dcec) ![Gradio](https://img.shields.io/badge/Gradio-1c2a4d?style=flat-square&logo=gradio&logoColor=a3dcec) |
+| **Languages & data** | ![Python](https://img.shields.io/badge/Python-1c2a4d?style=flat-square&logo=python&logoColor=a3dcec) ![MySQL](https://img.shields.io/badge/MySQL-1c2a4d?style=flat-square&logo=mysql&logoColor=a3dcec) ![SQLite](https://img.shields.io/badge/SQLite-1c2a4d?style=flat-square&logo=sqlite&logoColor=a3dcec) ![Pandas](https://img.shields.io/badge/Pandas-1c2a4d?style=flat-square&logo=pandas&logoColor=a3dcec) ![NumPy](https://img.shields.io/badge/NumPy-1c2a4d?style=flat-square&logo=numpy&logoColor=a3dcec) |
+| **Machine learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1c2a4d?style=flat-square&logo=scikitlearn&logoColor=a3dcec) ![LightGBM](https://img.shields.io/badge/LightGBM-1c2a4d?style=flat-square) ![Keras](https://img.shields.io/badge/Keras-1c2a4d?style=flat-square&logo=keras&logoColor=a3dcec) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1c2a4d?style=flat-square&logo=tensorflow&logoColor=a3dcec) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-1c2a4d?style=flat-square&logo=git&logoColor=a3dcec) ![GitHub](https://img.shields.io/badge/GitHub-1c2a4d?style=flat-square&logo=github&logoColor=a3dcec) ![Linux](https://img.shields.io/badge/Linux-1c2a4d?style=flat-square&logo=linux&logoColor=a3dcec) ![VS Code](https://img.shields.io/badge/VS%20Code-1c2a4d?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-1c2a4d?style=flat-square&logo=pytest&logoColor=a3dcec) |
 
-## 🚀 Featured Projects
+## ◆ Education & certifications
 
-### ⭐ [SutraOps — Enterprise Integration Agent](https://github.com/Sam-Abishekraj/sutraops)
+| Education | Status |
+|:--|:--|
+| **M.Sc Computer Science** (Correspondence) · Madurai Kamaraj University | 2025 – Present · *Ongoing* |
+| **B.Sc Data Science** · The American College | Completed · **8.7 CGPA** |
 
-<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/sutraops/main/docs/screenshots/02-console-injection-approval.png" width="100%" alt="SutraOps console: agent blocks a prompt injection and sends a large refund for human approval"/></a>
+| Certification | Issuer |
+|:--|:--|
+| MTA Exam 98-381: Introduction to Programming Using Python | Microsoft |
+| AI Developer Certificate | IBM |
+| Generative AI & Prompt Engineering | IBM |
+| Statistics with Python | University of Michigan |
+| AWS Educate: Introduction to Generative AI | Amazon Web Services |
 
-An AI support/ops agent for a fictional Indian D2C brand, wired into **5 client systems**: a REST CRM/ticketing API, a guarded read-only SQL tool, multilingual RAG over SOPs, Slack/email notifications and an **MCP server**.
+## ◆ Currently learning
 
-- 🧪 **Real eval (25 scenarios, English · Tamil · Hindi):** 88% task success · 92% right-tool accuracy · 100% valid tool calls · 1.1s median latency
-- 🛡️ **Guardrails:** prompt-injection redaction, PII masking, SQL whitelist, human approval for refunds above ₹2,000, detection of claimed-but-not-done actions
-- ⚡ **Free-tier resilient:** Groq gpt-oss-120b → gpt-oss-20b fallback on rate limits, caching, backoff, demo replay mode
-- 📊 Live tool-call traces + admin dashboard (approvals, tokens, outbox) · 56 pytest tests
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| 🎓 **[TechVerse University RAG Assistant](https://github.com/Sam-Abishekraj/trueailab-rag-assistant)** · [Live](https://trueailab-rag-assistant-nine.vercel.app) | Python · FAISS · Gemini API · FastAPI · Vercel | RAG pipeline with FAISS vector search & embedding retrieval; conversational memory via FastAPI backend; deployed on Railway + Vercel |
-| 🔍 **[FraudSense – Fraud Detection](https://github.com/Sam-Abishekraj/Fraud_Sense)** | Python · TF-IDF · SVD · LightGBM · Neural Networks | NLP-based fraud detection on job postings & reviews; TF-IDF + SVD feature extraction; LightGBM + NN ensemble |
-
-</div>
-
----
-
-## 🏅 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 📜 | MTA Exam 98-381 | Introduction to Programming Using Python — Microsoft |
-| 🤖 | IBM AI Developer Certificate | Full AI developer learning path — IBM |
-| 🧠 | IBM Generative AI & Prompt Engineering | Generative AI concepts & structured prompt design — IBM |
-| 📊 | Statistics with Python | Inferential & applied stats — University of Michigan |
-| ☁️ | AWS Educate: Intro to Generative AI | Generative AI on cloud foundations — Amazon Web Services |
-| 🎓 | B.Sc Data Science | CGPA: **8.7** — The American College |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:-----|:------|
-| M.Sc Computer Science (Correspondence) | Madurai Kamaraj University | 2025 – Present | Ongoing |
-| B.Sc Data Science | The American College | Completed | 8.7 CGPA |
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🛡️ Agent Reliability   →  Evals · Guardrails · Human-in-the-loop · Tracing
-🔍 Advanced RAG        →  Multi-vector retrieval · Hybrid search · Re-ranking
-🤖 Multi-Agent Systems →  Agent orchestration · Tool-use · Memory management
-🧬 LLM Fine-tuning     →  LoRA · PEFT · Instruction tuning
-⚙️  MLOps Basics        →  Model versioning · CI/CD for ML · Monitoring
-🧱 System Design       →  Scalable AI backends · Async pipelines · API design
+```text
+Agent reliability   →  evals · guardrails · human-in-the-loop · tracing
+Advanced RAG        →  multi-vector retrieval · hybrid search · re-ranking
+Multi-agent systems →  orchestration · tool use · memory management
+LLM fine-tuning     →  LoRA · PEFT · instruction tuning
+MLOps basics        →  model versioning · CI/CD for ML · monitoring
+System design       →  scalable AI backends · async pipelines · API design
 ```
 
----
+## ◆ Activity
 
 <div align="center">
 
-*"Build systems that think. Teach people who build."*
-**— Sam Abishekraj D**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/output/snake-light.svg"/>
+  <img width="100%" alt="Contribution graph being eaten by a snake, regenerated daily by a GitHub Action" src="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/output/snake-dark.svg"/>
+</picture>
+
+<br/>
+
+*"Build systems that think. Teach people who build."* · **Sam Abishekraj D**
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f3fbf,100:a3dcec&height=90&section=footer" width="100%" alt=""/>
