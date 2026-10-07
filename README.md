@@ -1,7 +1,7 @@
 <!-- Design direction: adapted from the Scale (scale.com) reference in Inspo (inspomcp.dev/screens/scale-com):
      near-black #04040c surface, pale-cyan #a3dcec accent, indigo #3f3fbf support, marquee-style headline, stat-led proof. -->
 
-<a href="https://resume-ruddy-omega.vercel.app/"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/main/assets/header.svg" width="100%" alt="Sam Abishekraj D, AI Engineer and Forward Deployed Engineer. I wire LLM agents into real business systems, and make them safe, observable and cheap to run."/></a>
+<a href="https://resume-ruddy-omega.vercel.app/"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/Sam-Abishekraj/main/assets/header.svg?v=2" width="100%" alt="Sam Abishekraj D, AI Engineer and Forward Deployed Engineer. I wire LLM agents into real business systems, and make them safe, observable and cheap to run."/></a>
 
 <div align="center">
 
