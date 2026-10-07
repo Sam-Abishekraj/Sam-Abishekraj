@@ -1,0 +1,40 @@
+name: Contribution snake
+
+# Self-hosted replacement for third-party activity-graph widgets.
+# Builds SVGs from the contribution grid and publishes them to the `output` branch.
+on:
+  schedule:
+    - cron: "30 18 * * *" # daily, 00:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#a3dcec&color_dots=#161b22,#1c2a4d,#3f3fbf,#6f8fd8,#a3dcec
+            dist/snake-light.svg?color_snake=#3f3fbf&color_dots=#ebedf0,#c9e9f2,#8fcfe2,#5c8fd6,#3f3fbf
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
