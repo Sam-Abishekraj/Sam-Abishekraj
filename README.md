@@ -1,7 +1,14 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+LLM+%26+RAG+Systems+%F0%9F%94%8D;Prompt+Engineer+%26+Agent+Builder+%F0%9F%A7%A0;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Agent+Builder+%F0%9F%A4%96;Wiring+LLM+Agents+into+Real+Systems+%F0%9F%94%8C;RAG+%C2%B7+Tool+Calling+%C2%B7+MCP+%C2%B7+Guardrails+%F0%9F%9B%A1%EF%B8%8F;Data+Science+Trainer+%26+Mentor+%F0%9F%8E%93)
 
+<p>
+<a href="https://resume-ruddy-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:samabishek7@gmail.com"><img src="https://img.shields.io/badge/Email-BF91F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://img.shields.io/badge/Flagship-SutraOps-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="SutraOps"/></a>
+</p>
+
+**Entry-level AI Engineer / Forward Deployed Engineer** · I connect LLM agents to messy business systems (CRMs, SQL, docs, notifications) and make them safe, observable and cheap to run.
 
 </div>
 
@@ -16,19 +23,21 @@ class SamAbishekraj:
     name     = "Sam Abishekraj D"
     location = "Madurai, Tamil Nadu, India"
     degree   = "M.Sc CS (MKU) + B.Sc Data Science (8.7 CGPA)"
-    role     = "AI/ML Engineer | Data Science Trainer"
+    role     = "AI Engineer (Agents & RAG) | Data Science Trainer"
+    seeking  = "AI Engineer / Forward Deployed Engineer roles"
 
     stack = [
-        "Python", "FastAPI", "Flask", "Streamlit",
-        "LangChain", "FAISS", "Hugging Face",
+        "Python", "FastAPI", "Flask", "REST APIs", "SQLite",
+        "LLM tool calling", "MCP", "Groq", "LangChain",
+        "FAISS", "Hugging Face", "pytest",
         "Scikit-learn", "LightGBM", "Keras",
         "MySQL", "Pandas", "NumPy"
     ]
 
     currently_learning = [
-        "Advanced RAG Pipelines",
+        "Agent evals & guardrails",
         "Multi-Agent Systems",
-        "LLM Fine-tuning"
+        "LLM Fine-tuning (LoRA)"
     ]
 
     fun_fact = "I run on curiosity, chai, and clean code ☕"
@@ -62,6 +71,8 @@ class SamAbishekraj:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
 
 **Frameworks & Deployment**
@@ -70,6 +81,7 @@ class SamAbishekraj:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -79,6 +91,8 @@ class SamAbishekraj:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 
 ## 🔥 Streak Stats
@@ -139,13 +153,30 @@ class SamAbishekraj:
 
 ## 🚀 Featured Projects
 
+### ⭐ [SutraOps — Enterprise Integration Agent](https://github.com/Sam-Abishekraj/sutraops)
+
+<a href="https://github.com/Sam-Abishekraj/sutraops"><img src="https://raw.githubusercontent.com/Sam-Abishekraj/sutraops/main/docs/screenshots/02-console-injection-approval.png" width="100%" alt="SutraOps console: agent blocks a prompt injection and sends a large refund for human approval"/></a>
+
+An AI support/ops agent for a fictional Indian D2C brand, wired into **5 client systems**: a REST CRM/ticketing API, a guarded read-only SQL tool, multilingual RAG over SOPs, Slack/email notifications and an **MCP server**.
+
+- 🧪 **Real eval (25 scenarios, English · Tamil · Hindi):** 88% task success · 92% right-tool accuracy · 100% valid tool calls · 1.1s median latency
+- 🛡️ **Guardrails:** prompt-injection redaction, PII masking, SQL whitelist, human approval for refunds above ₹2,000, detection of claimed-but-not-done actions
+- ⚡ **Free-tier resilient:** Groq gpt-oss-120b → gpt-oss-20b fallback on rate limits, caching, backoff, demo replay mode
+- 📊 Live tool-call traces + admin dashboard (approvals, tokens, outbox) · 56 pytest tests
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🎓 **TechVerse University RAG Assistant** | Python · FAISS · Gemini API · FastAPI · Vercel | RAG pipeline with FAISS vector search & embedding retrieval; conversational memory via FastAPI backend; deployed on Railway + Vercel |
-| 🔍 **FraudSense – Fraud Detection** | Python · TF-IDF · SVD · LightGBM · Neural Networks | NLP-based fraud detection on job postings & reviews; TF-IDF + SVD feature extraction; LightGBM + NN ensemble |
-| ❤️ **Heart Disease Classifier** | Python · Flask · Scikit-learn · Feature Engineering | End-to-end ML app from preprocessing to deployment; Flask UI for prediction; improved reliability via feature engineering |
+| 🎓 **[TechVerse University RAG Assistant](https://github.com/Sam-Abishekraj/trueailab-rag-assistant)** · [Live](https://trueailab-rag-assistant-nine.vercel.app) | Python · FAISS · Gemini API · FastAPI · Vercel | RAG pipeline with FAISS vector search & embedding retrieval; conversational memory via FastAPI backend; deployed on Railway + Vercel |
+| 🔍 **[FraudSense – Fraud Detection](https://github.com/Sam-Abishekraj/Fraud_Sense)** | Python · TF-IDF · SVD · LightGBM · Neural Networks | NLP-based fraud detection on job postings & reviews; TF-IDF + SVD feature extraction; LightGBM + NN ensemble |
 
 </div>
 
@@ -184,6 +215,7 @@ class SamAbishekraj:
 ## 🌱 Currently Learning
 
 ```
+🛡️ Agent Reliability   →  Evals · Guardrails · Human-in-the-loop · Tracing
 🔍 Advanced RAG        →  Multi-vector retrieval · Hybrid search · Re-ranking
 🤖 Multi-Agent Systems →  Agent orchestration · Tool-use · Memory management
 🧬 LLM Fine-tuning     →  LoRA · PEFT · Instruction tuning
